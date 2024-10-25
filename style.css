@@ -4,7 +4,7 @@ body {
 
 header {
     background-color: #38598b;
-    color: #e7eaf6;
+    color: #e7eaf6;-
     text-align: center;
     padding: 8rem;
     margin: auto;
@@ -18,6 +18,7 @@ header {
     margin-left: 10rem;
     border-radius: 10%;
 }
+
 
 .primeira p {
     text-align: center;
